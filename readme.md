@@ -24,11 +24,19 @@ Requerimientos:
 		-	Contacto
 
 Nota:
--En el desarrollo final se descarto la sección de "Equipo"
+-En el desarrollo se descarto la sección de "Equipo".
 
 Información técnica: html en bootstrap
 
 #IMAGENES
 
 Vista Index
-![Alt text](draft/index.jpg?raw=true "Draft Index")
+![Alt text](themes/mkt_kaufmann/draft/index.jpg?raw=true "Draft Index")
+
+#DETALLES TÉCNICOS
+
+CSS:
+Se creó un tema para este proyecto, utilizando herramientas grilla de bootstrap e iconos de fontawesome. Utilizando animaciones con JS y con vistas diferentes para cada dispositivo (Ordenador, Tablet, Smartphone vertical y horizontal).
+
+JS:
+Se agregaron scripts para animaciones de aparición de secciones, movimiento fluido, animación de video y api.
